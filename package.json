@@ -1,0 +1,19 @@
+{
+  "name": "oojs",
+  "version": "1.0.0",
+  "description": "practice code example of object oriented java script book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karpagma/oojs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karpagma/oojs/issues"
+  },
+  "homepage": "https://github.com/karpagma/oojs#readme"
+}
